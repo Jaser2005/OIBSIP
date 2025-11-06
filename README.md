@@ -5,12 +5,12 @@ The projects demonstrate the implementation of various machine learning algorith
 
 🧠 Tasks Completed
 
-Email Spam Detection using Machine Learning – Built a model to classify emails as spam or ham using NLP and ML techniques.
+1. Email Spam Detection using Machine Learning – Built a model to classify emails as spam or ham using NLP and ML techniques.
 
-Car Price Prediction using Machine Learning – Predicted car prices based on key features using regression models.
+2. Car Price Prediction using Machine Learning – Predicted car prices based on key features using regression models.
 
-Sales Prediction using Python – Forecasted future sales using historical data and data visualization.
+3. Sales Prediction using Python – Forecasted future sales using historical data and data visualization.
 
-Unemployment Analysis with Python – Analyzed unemployment trends using real-world datasets and Python visualization libraries.
+4. Unemployment Analysis with Python – Analyzed unemployment trends using real-world datasets and Python visualization libraries.
 
-Iris Flower Classification – Classified iris flower species using supervised learning algorithms.
+5. Iris Flower Classification – Classified iris flower species using supervised learning algorithms.
