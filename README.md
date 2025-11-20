@@ -7,7 +7,7 @@ The projects demonstrate the implementation of various machine learning algorith
 
 1. Email Spam Detection using Machine Learning – Built a model to classify emails as spam or ham using NLP and ML techniques.
 
-2. Car Price Prediction using Machine Learning – Predicted car prices based on key features using regression models.
+2. Car Price Prediction using Machine Learning – Predicted car prices based on key features using regression models (Random Forest Regressor)
 
 3. Sales Prediction using Python – Forecasted future sales using historical data and data visualization.
 
